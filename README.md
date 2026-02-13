@@ -25,6 +25,7 @@ An interactive Power BI dashboard can be downloaded here.
 
 The ERD illustrates how transactions, customers, products, and resellers relate to each other, giving context to the metrics used throughout the analysis.
 
+
 <img width="951" height="628" alt="Bike World ERD" src="https://github.com/user-attachments/assets/a4eccdca-d01d-416e-b078-b9d12ac6348d" />
 
 
@@ -35,7 +36,16 @@ In the following years, sales and profit continued to grow, however, in 2020 a d
 It is also noteworthy that despite the sales decline the company's profit was not impacted, it grew when compared to 2018.
 Below is the overview page from the PowerBI dashboard.
 
+
 <img width="869" height="773" alt="Bike World Overview PowerBI" src="https://github.com/user-attachments/assets/0b2d1928-3af5-42e5-b812-f87c81c2b303" />
+
+
+When looking at total sales by country, the United States stands out as the market with the highest volume. Canada and Australia come next, followed by the United Kingdom, France and Germany.
+From a strategic point of view, relying so heavily on the United States may become a risk, as it points to a certain dependency on a single market. For this reason, expanding sales across different regions should be considered a priority. At the same time, the European market appears to offer good growth potential, especially as more consumers are shifting toward environmentally friendly commuting options.
+
+
+<img width="508" height="266" alt="Bike World Countries" src="https://github.com/user-attachments/assets/a1a04e3c-e5e2-49ea-8a7e-fb4104577f1b" />
+
 
 By further exploring both commercial and transactional data, the following patterns emerged:
 - product demand and revenue contribution trends
