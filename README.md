@@ -30,16 +30,19 @@ The ERD illustrates how transactions, customers, products, and resellers relate 
 
 # Key Findings
 
-The analysis provides a clear view of Bike World’s performance across sales, product portfolio, customer behavior, and reseller activity.
+Through this analysis it is understood that when Bike World started its operations, back in 2017, the company reached a total volume of sales of 11.93 million euros, with a profit of 1.88 million euros.
+In the following years, sales and profit continued to grow, however, in 2020 a decline in sales was identified, possibly caused by the COVID-19 pandemic, that restricted economic activity as well as outdoor activities. The category that was mostly affected was the bike category, and since it is the most representative category in sales, the decline in demand had a great impact on the total sales.
+It is also noteworthy that despite the sales decline the company's profit was not impacted, it grew when compared to 2018.
+Below is the overview page from the PowerBI dashboard.
 
-By exploring both commercial and transactional data, the following patterns emerged:
+<img width="869" height="773" alt="Bike World Overview PowerBI" src="https://github.com/user-attachments/assets/0b2d1928-3af5-42e5-b812-f87c81c2b303" />
+
+By further exploring both commercial and transactional data, the following patterns emerged:
 - product demand and revenue contribution trends
 - differences between customer and reseller purchasing behavior
 - operational improvement opportunities
 
 These observations serve as the foundation for the recommendations below.
-
-<img width="869" height="773" alt="Bike World Overview PowerBI" src="https://github.com/user-attachments/assets/0b2d1928-3af5-42e5-b812-f87c81c2b303" />
 
 
 # Recommendations
