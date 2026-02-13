@@ -18,9 +18,6 @@ The analysis focuses on four main areas:
 - product strategy
 - channel optimization
 
-An interactive Power BI dashboard can be downloaded here.
-
-
 # Data Structure
 
 The ERD illustrates how transactions, customers, products, and resellers relate to each other, giving context to the metrics used throughout the analysis.
