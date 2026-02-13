@@ -34,16 +34,14 @@ It is also noteworthy that despite the sales decline the company's profit was no
 Below is the overview page from the PowerBI dashboard.
 
 
-<img width="871" height="773" alt="Bike World Overview" src="https://github.com/user-attachments/assets/99162991-eda3-48db-b3fe-2a6fdb386e14" />
-
+<img width="1311" height="744" alt="Bike World Overview" src="https://github.com/user-attachments/assets/59e88064-cb20-4ec5-aab4-0fdc45b54865" />
 
 
 When looking at total sales by country, the United States stands out as the market with the highest volume. Canada and Australia come next, followed by the United Kingdom, France and Germany.
 From a strategic point of view, relying so heavily on the United States may become a risk, as it points to a certain dependency on a single market. For this reason, expanding sales across different regions should be considered a priority. At the same time, the European market appears to offer good growth potential, especially as more consumers are shifting toward environmentally friendly commuting options.
 
 
-<img width="566" height="289" alt="Bike World Total Sales by Country" src="https://github.com/user-attachments/assets/6ddc65c4-d2f8-4fca-a795-f1c594cba415" />
-
+<img width="1309" height="742" alt="Bike World Sales" src="https://github.com/user-attachments/assets/35d9e440-a522-4a53-b4ce-e44bf51a94b5" />
 
 
 By further exploring both commercial and transactional data, the following patterns emerged:
