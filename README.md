@@ -33,16 +33,8 @@ In the following years, sales and profit continued to grow, however, in 2020 a d
 It is also noteworthy that despite the sales decline the company's profit was not impacted, it grew when compared to 2018.
 Below is the overview page from the PowerBI dashboard.
 
-
-<img width="1311" height="744" alt="Bike World Overview" src="https://github.com/user-attachments/assets/59e88064-cb20-4ec5-aab4-0fdc45b54865" />
-
-
 When looking at total sales by country, the United States stands out as the market with the highest volume. Canada and Australia come next, followed by the United Kingdom, France and Germany.
 From a strategic point of view, relying so heavily on the United States may become a risk, as it points to a certain dependency on a single market. For this reason, expanding sales across different regions should be considered a priority. At the same time, the European market appears to offer good growth potential, especially as more consumers are shifting toward environmentally friendly commuting options.
-
-
-<img width="1309" height="742" alt="Bike World Sales" src="https://github.com/user-attachments/assets/35d9e440-a522-4a53-b4ce-e44bf51a94b5" />
-
 
 By further exploring both commercial and transactional data, the following patterns emerged:
 - product demand and revenue contribution trends
@@ -50,6 +42,12 @@ By further exploring both commercial and transactional data, the following patte
 - operational improvement opportunities
 
 These observations serve as the foundation for the recommendations below.
+
+
+<img width="1273" height="707" alt="Bike World Overview" src="https://github.com/user-attachments/assets/1a1cf5c7-1979-49bc-b0e9-40ac5bcd849d" />
+<img width="1275" height="714" alt="Bike World Sales" src="https://github.com/user-attachments/assets/b9f1a0bc-f5cf-4bb4-a791-97d760eb0d3b" />
+<img width="1276" height="710" alt="Bike World Clients   Resellers" src="https://github.com/user-attachments/assets/9b82b9c1-49eb-413e-945b-0d6900da9401" />
+<img width="1275" height="686" alt="Bike World Products" src="https://github.com/user-attachments/assets/395ed54e-851b-4c7e-beb5-8ba4b1ff57b1" />
 
 
 # Recommendations
